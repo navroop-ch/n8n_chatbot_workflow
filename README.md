@@ -1,4 +1,4 @@
-n8n AI-Powered QA Agent & Knowledge Base
+*n8n AI-Powered QA Agent & Knowledge Base*
 This project implements a complete agentic automation system. It allows users to submit information via a web form into a private knowledge base, which a custom AI Agent then uses to provide grounded, accurate answers to user queries without "hallucinating."
 
 🏗 System Architecture
